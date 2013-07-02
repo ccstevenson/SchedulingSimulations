@@ -1,0 +1,1 @@
+A simulation, written in C++, for determining the number of tracks traversed by a hard drive's seek arm when using the first come first served, shortest seek time first, and scan-look algorithms.
